@@ -1,2 +1,3 @@
-# SV_interpretability
-Code for the paper "Can sparse autoencoders be used to decompose and interpret steering vectors?"
+<h2 align="center">
+  <p>Can sparse autoencoders be used to decompose and interpret steering vectors?</p>
+</h2>
